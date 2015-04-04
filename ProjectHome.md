@@ -1,0 +1,1 @@
+Educator tools, errata, and other information related to the book "The Practice of System and Network Administration" by  Thomas Limoncelli, Christina Hogan, and Strata Chalup
